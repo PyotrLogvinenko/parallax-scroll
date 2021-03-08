@@ -2,4 +2,4 @@
 
 Just copy files to your folder and start index.html
 
-Live: 
+Live: https://pyotrlogvinenko.github.io/parallax-scroll/
